@@ -6,7 +6,6 @@ Transformo problemas do dia a dia em aplicações web, conectando interfaces, AP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/vinicius-domingues-7729852b8)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusdominguesn28@gmail.com)
-[![Projeto%20Port](https://img.shields.io/badge/Conheça_o_Port-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinicius-Domiingues/port-portfolio)
 
 ## 🚀 Sobre mim
 
@@ -33,35 +32,26 @@ Tenho interesse em desenvolvimento web, modelagem de dados e visualizações que
 | Autenticação e acesso | JWT, bcrypt e permissões por perfil |
 | Versionamento | Git e GitHub |
 
-## ⭐ Projeto em destaque
+## 🔬 Iniciação científica em destaque
 
-### ☕ Port — Gestão de Café
+### ☕ Sistema Inteligente de Gestão e Análise da Produção Cafeeira
 
-Uma aplicação Full Stack de portfólio para demonstrar a gestão de **produtores, amostras de café, concursos e solicitações de selos**, reunindo informações operacionais e indicadores em uma interface web.
-
-O Port é uma versão independente do sistema original de gestão cafeeira. Sua base de demonstração utiliza **exclusivamente dados fictícios**.
-
-**O que o projeto reúne:**
-
-- 📊 Dashboard para consultar indicadores e analisar informações da produção.
-- 🌱 Cadastro e gestão de produtores e amostras de café.
-- 🏆 Organização de concursos e solicitações de selos.
-- 🔐 Autenticação com JWT, proteção de senhas com bcrypt e acesso por perfil de administrador ou produtor.
-- 🔗 Integração entre frontend, API em Node.js/TypeScript e banco MySQL.
-- 🧪 Scripts de verificação das permissões e da base de demonstração.
-
-Esse projeto reúne minha experiência com modelagem de dados, desenvolvimento de APIs, regras de negócio e construção de interfaces para um problema concreto do setor cafeeiro.
-
-**[Explorar o repositório →](https://github.com/Vinicius-Domiingues/port-portfolio)**
-
-## 🔬 Pesquisa e experiência
-
-### Desenvolvimento Full Stack e iniciação científica
+**Bolsista de iniciação científica e desenvolvedor Full Stack**  
 **Associação dos Produtores de Café da Região Vulcânica · abril de 2026 — atual**
 
-Atuo no projeto **Sistema Inteligente de Gestão e Análise da Produção Cafeeira**, voltado à centralização de informações produtivas e qualitativas de cafés especiais da região de Poços de Caldas.
+Atuo em uma pesquisa aplicada ao desenvolvimento de um sistema para centralizar informações produtivas e qualitativas de cafés especiais da Região Vulcânica de Poços de Caldas. O projeto busca apoiar a gestão da produção cafeeira e a análise de dados, aproximando a pesquisa acadêmica das necessidades dos produtores.
 
-Minha atuação envolve desenvolvimento de APIs REST com Node.js e Express, estruturação de banco MySQL, interfaces responsivas, dashboards e visualizações de dados com Chart.js e Leaflet.js.
+**Minha atuação no projeto:**
+
+- 🔗 Desenvolvimento de APIs REST com Node.js e Express para organizar e disponibilizar as informações do sistema.
+- 🗃️ Modelagem, estruturação e manutenção de banco de dados relacional com MySQL.
+- 💻 Criação de interfaces web responsivas com HTML, CSS, JavaScript e Tailwind CSS.
+- 📊 Desenvolvimento de dashboards e visualizações estatísticas com Chart.js.
+- 🗺️ Visualização de informações geográficas com Leaflet.js.
+
+Essa experiência conecta minha formação em Engenharia de Computação à pesquisa científica e ao desenvolvimento de soluções para desafios reais da cafeicultura regional.
+
+## 🌱 Outras experiências
 
 ### Turing Consultoria e Desenvolvimento
 **Trainee · março de 2026 — atual**
@@ -77,7 +67,7 @@ Atuei em ações de letramento digital e educação científica, com apoio a lab
 
 Minha formação em Engenharia de Computação começou em 2022 no IFSULDEMINAS. Ao longo desse caminho, venho aproximando os estudos da prática por meio de extensão, pesquisa aplicada e desenvolvimento de software.
 
-A experiência com educação científica ampliou meu contato com o uso da tecnologia no aprendizado. Hoje, o trabalho com gestão cafeeira me permite aplicar conhecimentos de desenvolvimento web e dados a necessidades reais, enquanto organizo essa experiência no meu portfólio.
+A experiência com educação científica ampliou meu contato com o uso da tecnologia no aprendizado. Hoje, o trabalho com gestão cafeeira me permite aplicar conhecimentos de desenvolvimento web e dados a necessidades reais, contribuindo com a pesquisa aplicada à cafeicultura regional.
 
 ---
 
