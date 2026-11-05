@@ -11,7 +11,7 @@ Transformo problemas do dia a dia em aplicações web, conectando interfaces, AP
 
 - 🎓 Graduando em **Engenharia de Computação no IFSULDEMINAS**, com formação iniciada em 2022.
 - 💻 Desenvolvedor Full Stack e **bolsista de iniciação científica**, atuando em um sistema de gestão e análise da produção cafeeira.
-- 🌱 Trainee na **Turing Consultoria e Desenvolvimento**, aproximando a formação acadêmica da prática em projetos.
+- 🌱 Diretor da **Turing Consultoria e Desenvolvimento**, empresa júnior que conecta a formação acadêmica à prática profissional.
 - 🔬 Experiência em extensão pelo programa **Mais Ciência na Escola**, com educação científica, laboratórios maker, robótica e impressão 3D.
 - 📍 Poços de Caldas, Minas Gerais — Brasil.
 
@@ -54,9 +54,9 @@ Essa experiência conecta minha formação em Engenharia de Computação à pesq
 ## 🌱 Outras experiências
 
 ### Turing Consultoria e Desenvolvimento
-**Trainee · março de 2026 — atual**
+**Diretor · atual**
 
-Participo da empresa júnior, ampliando minha formação por meio da vivência em projetos, serviços e empreendedorismo.
+Integro a diretoria da empresa júnior, ampliando minha experiência com trabalho em equipe, gestão e empreendedorismo.
 
 ### Mais Ciência na Escola
 **Extensionista no IFSULDEMINAS · março de 2025 — março de 2026**
